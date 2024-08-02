@@ -1,7 +1,6 @@
 # Hi there, I am Kapil Jetnwani 👋
 
-![Profile views](![](https://komarev.com/ghpvc/?username=kapil9099))
-
+![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapil9099&show_icons=true&theme=radical)
 ## About Me
 
 I am a passionate software engineer with a love for creating innovative solutions. Here are a few things about me:
