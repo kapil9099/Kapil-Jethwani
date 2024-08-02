@@ -1,6 +1,6 @@
 # Hi there, I'Kapil Jetnwani 👋
 
-![Profile views](http://kapiljethwani.com)
+![Profile views](https://gpvc.arturio.dev/johndoe)
 
 ## About Me
 
