@@ -1,6 +1,6 @@
-# Hi there, I'Kapil Jetnwani 👋
+# Hi there, I am Kapil Jetnwani 👋
 
-![Profile views](https://gpvc.arturio.dev/johndoe)
+![Profile views](![](https://komarev.com/ghpvc/?username=kapil9099))
 
 ## About Me
 
